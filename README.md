@@ -1,0 +1,2 @@
+# exercicioc-
+primeiro codigo
